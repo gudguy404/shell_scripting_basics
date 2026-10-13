@@ -1,0 +1,137 @@
+{
+  "nodes": [
+    {
+      "id": "moc",
+      "type": "file",
+      "file": "curso/00 - MOC - Fundamentos de Shell Scripting.md",
+      "x": -150,
+      "y": -350,
+      "width": 380,
+      "height": 250,
+      "color": "1"
+    },
+    {
+      "id": "mod1",
+      "type": "file",
+      "file": "curso/fase_1_cimientos/01 - El Modelo Mental de la Shell de Linux.md",
+      "x": -550,
+      "y": 0,
+      "width": 340,
+      "height": 250,
+      "color": "2"
+    },
+    {
+      "id": "mod2",
+      "type": "file",
+      "file": "curso/fase_1_cimientos/02 - El Flujo de Datos UNIX y Redirecciones.md",
+      "x": -150,
+      "y": 0,
+      "width": 340,
+      "height": 250,
+      "color": "2"
+    },
+    {
+      "id": "mod3",
+      "type": "file",
+      "file": "curso/fase_2_lenguaje/03 - Variables, Sintaxis y la Regla de Oro.md",
+      "x": 250,
+      "y": 0,
+      "width": 340,
+      "height": 250,
+      "color": "2"
+    },
+    {
+      "id": "mod4",
+      "type": "file",
+      "file": "curso/fase_2_lenguaje/04 - Parámetros Posicionales y Argumentos.md",
+      "x": -550,
+      "y": 350,
+      "width": 340,
+      "height": 250,
+      "color": "3"
+    },
+    {
+      "id": "mod5",
+      "type": "file",
+      "file": "curso/fase_2_lenguaje/05 - Códigos de Salida y Estructuras Condicionales.md",
+      "x": -150,
+      "y": 350,
+      "width": 340,
+      "height": 250,
+      "color": "3"
+    },
+    {
+      "id": "mod6",
+      "type": "file",
+      "file": "curso/fase_3_automatizacion/06 - Bucles y Automatización Masiva.md",
+      "x": 250,
+      "y": 350,
+      "width": 340,
+      "height": 250,
+      "color": "3"
+    },
+    {
+      "id": "mod7",
+      "type": "file",
+      "file": "curso/fase_3_automatizacion/07 - Funciones y Modularidad Limpia.md",
+      "x": -550,
+      "y": 700,
+      "width": 340,
+      "height": 250,
+      "color": "4"
+    },
+    {
+      "id": "mod8",
+      "type": "file",
+      "file": "curso/fase_3_automatizacion/08 - Programación Defensiva y Debug.md",
+      "x": -150,
+      "y": 700,
+      "width": 340,
+      "height": 250,
+      "color": "4"
+    },
+    {
+      "id": "mod9",
+      "type": "file",
+      "file": "curso/fase_4_proyectos/09 - Proyecto Integrador - Creando tu CLI.md",
+      "x": 250,
+      "y": 700,
+      "width": 340,
+      "height": 250,
+      "color": "5"
+    },
+    {
+      "id": "mod10",
+      "type": "file",
+      "file": "curso/fase_4_proyectos/10 - Glosario Maestro y Próximos Pasos.md",
+      "x": -350,
+      "y": 1050,
+      "width": 340,
+      "height": 250,
+      "color": "6"
+    },
+    {
+      "id": "mod11",
+      "type": "file",
+      "file": "curso/fase_4_proyectos/11 - Desafío Maestro - Leyendo sondeo.sh con Superpoderes.md",
+      "x": 50,
+      "y": 1050,
+      "width": 360,
+      "height": 250,
+      "color": "5"
+    }
+  ],
+  "edges": [
+    {"id": "e0", "fromNode": "moc", "fromSide": "bottom", "toNode": "mod1", "toSide": "top"},
+    {"id": "e1", "fromNode": "mod1", "fromSide": "right", "toNode": "mod2", "toSide": "left"},
+    {"id": "e2", "fromNode": "mod2", "fromSide": "right", "toNode": "mod3", "toSide": "left"},
+    {"id": "e3", "fromNode": "mod3", "fromSide": "bottom", "toNode": "mod4", "toSide": "top"},
+    {"id": "e4", "fromNode": "mod4", "fromSide": "right", "toNode": "mod5", "toSide": "left"},
+    {"id": "e5", "fromNode": "mod5", "fromSide": "right", "toNode": "mod6", "toSide": "left"},
+    {"id": "e6", "fromNode": "mod6", "fromSide": "bottom", "toNode": "mod7", "toSide": "top"},
+    {"id": "e7", "fromNode": "mod7", "fromSide": "right", "toNode": "mod8", "toSide": "left"},
+    {"id": "e8", "fromNode": "mod8", "fromSide": "right", "toNode": "mod9", "toSide": "left"},
+    {"id": "e9", "fromNode": "mod9", "fromSide": "bottom", "toNode": "mod10", "toSide": "top"},
+    {"id": "e10", "fromNode": "mod9", "fromSide": "bottom", "toNode": "mod11", "toSide": "top"}
+  ]
+}

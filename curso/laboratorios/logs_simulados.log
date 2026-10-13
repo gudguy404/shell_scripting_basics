@@ -1,0 +1,11 @@
+2026-10-12 02:00:10 [INFO] Servidor web iniciado en puerto 80 por usuario www-data
+2026-10-12 02:00:15 [WARN] Memoria RAM al 78% de capacidad
+2026-10-12 02:01:22 [AUTH_FAIL] Intento fallido de login SSH para usuario root desde 192.168.1.105
+2026-10-12 02:01:25 [AUTH_FAIL] Intento fallido de login SSH para usuario root desde 192.168.1.105
+2026-10-12 02:01:28 [AUTH_FAIL] Intento fallido de login SSH para usuario admin desde 192.168.1.105
+2026-10-12 02:02:40 [INFO] Tarea cron de mantenimiento ejecutada exitosamente
+2026-10-12 02:03:05 [AUTH_OK] Login SSH exitoso para usuario mikha desde 192.168.1.45
+2026-10-12 02:04:12 [ERROR] Fallo de conexión con la base de datos MySQL (Timeout 30s)
+2026-10-12 02:05:00 [AUTH_FAIL] Intento fallido de login SSH para usuario test desde 10.0.0.99
+2026-10-12 02:06:18 [WARN] Disco /var/log supera el 82% de ocupación
+2026-10-12 02:07:30 [INFO] Copia de seguridad automática finalizada: backup_diario.tar.gz
