@@ -1,4 +1,4 @@
-# 🚀 Academia de Shell Scripting en Linux & Proyecto "Final Boss"
+# 🚀 Curso Shell Scripting Basics en Linux & Proyecto "Final Boss"
 
 ¡Bienvenido al repositorio! Este espacio está diseñado como un ecosistema completo de dos niveles: una **academia formativa autónoma en Obsidian** para aprender scripting desde cero, y un **proyecto del mundo real (`sondeo.sh`)** que actúa como el "Jefe Final" (Final Boss) para consolidar tu maestría técnica.
 
